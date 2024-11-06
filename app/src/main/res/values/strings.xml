@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="lemon_select">lemon_select\n</string>
+    <string name="lemon_tree_content_description">lemon_tree_content_description</string>
+    <string name="lemon_squeeze">lemon_squeeze</string>
+    <string name="lemon_content_description">lemon_content_description</string>
+    <string name="lemon_drink">lemon_drink</string>
+    <string name="lemonade_content_description">lemonade_content_description</string>
+    <string name="lemon_empty_glass">lemon_empty_glass</string>
+    <string name="empty_glass_content_description">empty_glass_content_description</string>
+</resources>
